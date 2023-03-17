@@ -17,14 +17,8 @@ function App() {
         >
           Learn React xxx
         </a>
-        <div id="like_button_container">xxx</div>
+        <div id="like_button_container">xxx1</div>
       </header>
-      <body>
-        <script src="https://unpkg.com/react@18/umd/react.development.js" crossorigin></script>
-        <script src="https://unpkg.com/react-dom@18/umd/react-dom.development.js" crossorigin></script>
-        <script src="like_button.js"></script>
-      </body>
-      
     </div>
   );
 }
