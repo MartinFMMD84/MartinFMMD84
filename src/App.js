@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React xxx
+          Learn React xxx GITHUB
         </a>
         <div id="like_button_container">xxx</div>
       </header>
