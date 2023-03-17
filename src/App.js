@@ -15,9 +15,11 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Learn React xxx
         </a>
+        <div id="like_button_container">xxx</div>
       </header>
+      
     </div>
   );
 }
