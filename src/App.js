@@ -20,7 +20,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React xxx
+          Learn React xxx GITHUB desde XII 21.03.2023
         </a>
         <div className="active">Holaaaa!</div>
         <div id="like_button_container">xxx1</div>
